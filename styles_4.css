@@ -1,0 +1,12 @@
+.Johnny-Drille {
+    background-color: #000000;
+    color: white;
+}
+
+.Fireboy {
+    background-color: #FFFF00;
+}
+.Fireboy, .Johnny-Drille {
+   font-size: 28px;
+   font-family: Helvetica, "Times New Roman", sans-serif; 
+}
